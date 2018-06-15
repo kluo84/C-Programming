@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1528949270 source:/root/C-Programming/Learn-C/malloc.c
+	<stdio.h>
+	<stdlib.h>
+
+1528951560 source:/root/C-Programming/Learn-C/array.c
+	<stdio.h>
+
